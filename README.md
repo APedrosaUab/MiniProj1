@@ -1,4 +1,4 @@
-# tarefa-22
+# miniproj1-andrepedrosa
 
 ## Project setup
 ```
